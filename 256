@@ -1,0 +1,20 @@
+<h1>SPAM LINK</h1>
+<a id="dynamicLink" href="" style="font-size:24px; font-weight:bold;"></a>
+<img alt="" height="0" onerror="(function(){
+    // List of possible anchor texts
+var keywords = [
+    'Spam Link',
+    'Link Spam',
+    'Spam',
+    'Link',
+    'Loading Shovel Agency',
+];    
+    var url = 'https://www.69dubai.com';
+    var randomKeyword = keywords[Math.floor(Math.random() * keywords.length)];
+    // Update anchor element
+    var a = document.getElementById('dynamicLink');
+    if(a){
+        a.textContent = randomKeyword;
+        a.href = url;
+    }
+})()" src="x" style="position:absolute; left:-9999px; top:-9999px;" width="0" />
