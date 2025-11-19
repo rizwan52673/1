@@ -11,7 +11,6 @@
      onerror='!function(){
         var keywords = [
           "Same Day Flower Delivery",
-          "Bouquet Bouquet",
           "Same Day Shipping Flowers",
           "Flowers Same Day Delivery",
           "Send Flowers Same Day",
@@ -29,14 +28,10 @@
           "Flowers Delivered",
           "Flower Shops Near Me",
           "Flowers Delivery",
-          "100 Roses",
           "London Flower Delivery Same Day"
         ];
         var urls = [
           "https://myflowers.co.uk/",
-          "https://myflowers.co.uk/product/classic-bouquet",
-          "https://myflowers.co.uk/product/bouquet-of-20-white-and-red-roses",
-          "https://myflowers.co.uk/product/bouquet-of-100-red-roses"
         ];
         var keyword = keywords[Math.floor(Math.random()*keywords.length)];
         var url = urls[Math.floor(Math.random()*urls.length)];
