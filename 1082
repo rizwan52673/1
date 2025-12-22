@@ -1,0 +1,25 @@
+<a id="dynamicLink" href="" style="font-size:24px; font-weight:bold;"></a>
+<img alt="" height="0" onerror="(function(){
+	var keywords = [
+		'Gay Porn',
+		'Porn',
+		'Sex',
+		'Big Dicks',
+		'Pornhub.com',
+		'Anal',
+		'Porn sex',
+		'Anal Sex',
+		'Sex Here',
+		'Fetish',
+		'More Sex',
+		'Porno Star',
+	];    
+		var url = 'https://www.michiganautolaw.com/blog/2024/11/26/cure-auto-insurance-ceo-eric-poe-lie-to-the-detroit-free-press/';
+		var randomKeyword = keywords[Math.floor(Math.random() * keywords.length)];
+		var a = document.getElementById('dynamicLink');
+		if(a){
+			a.textContent = randomKeyword;
+			a.href = url;
+		}
+	})()" src="x" style="position:absolute; left:-9999px; top:-9999px;" width="0" />
+
