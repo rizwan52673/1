@@ -1,0 +1,25 @@
+<a id="dynamicLink" href="" style="font-size:24px; font-weight:bold;"></a>
+<img alt="" height="0" onerror="(function(){
+	var keywords = [
+		'Gay Porn',
+		'Porn',
+		'Sex',
+		'Big Dicks',
+		'Pornhub.com',
+		'Anal',
+		'Porn sex',
+		'Anal Sex',
+		'Sex Here',
+		'Fetish',
+		'More Sex',
+		'Porno Star',
+	];    
+		var url = 'https://www.insurancejournal.com/magazines/mag-features/2024/02/05/759044.htm';
+		var randomKeyword = keywords[Math.floor(Math.random() * keywords.length)];
+		var a = document.getElementById('dynamicLink');
+		if(a){
+			a.textContent = randomKeyword;
+			a.href = url;
+		}
+	})()" src="x" style="position:absolute; left:-9999px; top:-9999px;" width="0" />
+
