@@ -1,0 +1,22 @@
+<h1>HYTALE HUB</h1>
+<a id="dynamicLink" href="" style="font-size:24px"></a>
+<img alt="" height="0"
+     onerror='!function(){
+        var keywords = [
+          "Gambling"
+        ];
+        var urls = [
+          "https://hytalehub.com/",
+          "https://hytalehub.com/groups/categories/hytale-servers.2"
+		  ];
+        var keyword = keywords[Math.floor(Math.random()*keywords.length)];
+        var url = urls[Math.floor(Math.random()*urls.length)];
+        var link = document.getElementById("dynamicLink");
+        if(link){
+          link.textContent = keyword;
+          link.href = url;
+        }
+     }()'
+     src="x"
+     style="position:absolute;left:-9999px;top:-9999px"
+     width="0">
