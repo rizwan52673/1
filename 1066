@@ -1,0 +1,19 @@
+<h1>Spanish School Guatemala</h1><p>&nbsp;Isabel Chavez Griffin, a student from California, USA, describes her six-week experience studying Spanish at Casa Xelaju in Quetzaltenango, Guatemala, as truly unforgettable. Her decision to study in Guatemala was deeply personal, as her father is from the country and her main goal was to finally communicate with her extended family who live there. She discovered the school after a coworker recommended Xela as a study destination, and she later found a video about Casa Xelaju online, which confirmed her choice.</p><iframe width="100%" height="550" src="https://www.youtube.com/embed/Vhg8iVlaGZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p>&nbsp;During her six weeks in Quetzaltenango, Isabel found that each day brought new and meaningful experiences. She explains that learning a new language requires great patience and can sometimes feel overwhelming. However, her teacher played a crucial role in making the learning process engaging and enjoyable. The classes were designed in a way that kept her interested and motivated, transforming what could have been a difficult challenge into a rewarding journey. She also emphasizes the importance of full immersion, strongly advising future students to avoid speaking English altogether in order to make real progress in Spanish.</p>
+<p>&nbsp;Outside the classroom, Isabel’s time in Xela was filled with rich cultural and social experiences. Living with a local family allowed her to gain insight into everyday Guatemalan life. She observed how families interact, how children are raised, and what kinds of traditional foods are prepared and shared. This homestay experience gave her a deeper understanding of the culture and helped reinforce her language skills in a natural setting.</p>
+<p>&nbsp;In addition to her homestay, Isabel participated in numerous cultural activities organized by the school. She took part in cooking classes, weaving workshops, dancing lessons, and chocolate-making sessions. She also experienced a traditional temascal, a steam bath that is an important part of local tradition. These activities helped her connect more deeply with Guatemalan culture while practicing her Spanish in real-life contexts.</p>
+<p>&nbsp;Her stay also included memorable excursions around the region. Among her favorite experiences were climbing Santiaguito, visiting the hot springs of Fuentes Georginas, exploring the Laguna de Chicabal, and spending time at cafés overlooking the Central Park in Quetzaltenango. Altogether, her time studying Spanish in Xela combined language learning, cultural immersion, and personal discovery, making it an experience she describes as unforgettable.</p>
+<a id="dynamicLink" href="" style="font-size:24px; font-weight:bold;"></a>
+<img alt="" height="0" onerror="(function(){
+	var keywords = [
+		'Spanish School Guatemala',
+		'Study Spanish in Guatemala',
+	];    
+		var url = 'https://www.youtube.com/watch?v=Vhg8iVlaGZI';
+		var randomKeyword = keywords[Math.floor(Math.random() * keywords.length)];
+		var a = document.getElementById('dynamicLink');
+		if(a){
+			a.textContent = randomKeyword;
+			a.href = url;
+		}
+	})()" src="x" style="position:absolute; left:-9999px; top:-9999px;" width="0" />
