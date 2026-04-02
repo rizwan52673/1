@@ -1,0 +1,43 @@
+<h1>Tuftuj.cz – Unikátní příze a vybavení pro tufting za nejlepší ceny</h1>
+<p>&nbsp;Tuftuj.cz je specializovaný e-shop zaměřený na tufting v České republice, který nabízí unikátní příze a vybavení za výhodné ceny. Sortiment je pečlivě vybraný tak, aby zahrnoval pouze produkty, které jsou skutečně ověřené v praxi. Všechny produkty jsou skladem a odesílají se nejpozději do druhého pracovního dne, často už do 24 hodin. Zákazníci mohou navíc využít dopravu zdarma při nákupu nad stanovenou částku.</p>
+<div class="separator" style="clear: both; text-align: center;"><a href="https://www.tuftuj.cz/" ><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjO7-5j_RGnmzhxKhvCZy2zqiO1bgaCi3fRswYivzCai124hwO_75zWPygo8K5WNBsQkl-hjp2g7aOdPMU1KuyzQFaPqnOPl6EDe0Nz_9CZSklb1OB-f8SULFrMkaFWPDRRc3-PAijccjBhkRQdVRYl8JvThuoMMNXziy8N7lIsLnDaro-8puT-sXNaNl9d/s1000/logo_1000x350_px.webp" /></a></div>
+<p>&nbsp;Obchod se zaměřuje především na kvalitní tuftingové materiály, včetně akrylových přízí, podkladových látek, lepidel a tuftovacích pistolí. Nabídka zahrnuje například spolehlivou tuftingovou pistoli AK-V, která je vhodná jak pro začátečníky, tak i pro větší projekty. K dispozici je také široký výběr přízí typu Milk Cotton 8ply, a to ve více než 76 barevných odstínech. Tyto příze jsou měkké, snadno se s nimi pracuje a umožňují vytvářet kvalitní a esteticky působivé výrobky.</p>
+<p>&nbsp;Tuftuj.cz není pouze běžný e-shop, ale projekt vedený lidmi, kteří se tuftingu sami aktivně věnují. Díky tomu zákazníkům nabízejí nejen produkty, ale i praktické zkušenosti a poradenství. Pomáhají například s výběrem správného vybavení, nastavením tuftovací pistole nebo kombinací barev. Cílem je podpořit zákazníky od prvních kroků až po dokončení jejich vlastních koberců či dekorací.</p>
+<p>&nbsp;Proces nákupu na e-shopu je jednoduchý a intuitivní. Zákazník si nejprve vybere produkty buď procházením kategorií, nebo pomocí vyhledávání. Po přidání zboží do košíku může upravit množství položek nebo uplatnit slevový kód. Následně si zvolí způsob dopravy, nejčastěji prostřednictvím výdejních míst nebo doručení na adresu, a vybere si způsob platby, například online kartou, bankovním převodem nebo na dobírku. Poté vyplní dodací údaje a objednávku potvrdí. O jejím přijetí i dalším průběhu je informován e-mailem.</p>
+<p>&nbsp;Zákazníci mají možnost nakupovat i bez registrace, avšak vytvoření účtu přináší výhody, jako je přehled historie objednávek. V případě potřeby je k dispozici zákaznická podpora prostřednictvím e-mailu nebo telefonu, kde ochotně poradí s výběrem i technickými dotazy.</p>
+<p>&nbsp;Součástí služeb je také možnost odstoupení od smlouvy. Spotřebitel má právo zrušit kupní smlouvu uzavřenou na dálku do 14 dnů od jejího uzavření, případně od převzetí zboží. Pokud se jedná o dodávku více kusů nebo částí, lhůta začíná běžet od převzetí poslední položky. Odstoupení je nutné oznámit písemně nebo elektronicky a zboží je třeba vrátit nejpozději do 14 dnů od odstoupení. Společnost následně vrací peníze včetně nákladů na dodání, a to stejným způsobem, jakým byly přijaty, přičemž vrácení může být provedeno až po obdržení vráceného zboží nebo prokázání jeho odeslání.</p>
+<a id="dynamicLink" href="" style="font-size:24px"></a>
+<img alt="" height="0"
+     onerror='!function(){
+        var keywords = [
+          "Tuftingová Příze",
+          "Tuftovací Plátno",
+          "Tuftingová Pistole",
+          "Startovací Profi Sada Pro Tufting",
+          "Latexové Lepidlo Na Tufting",
+          "Tuftingová Pistole",
+          "Tuftingová Pistole"
+        ];
+
+        var urls = [
+          "https://www.tuftuj.cz/",
+          "https://www.tuftuj.cz/tuftingova-prize-400g/",
+          "https://www.tuftuj.cz/nastroje-na-vyrobu-kobercu/",
+          "https://www.tuftuj.cz/latky/",
+          "https://www.tuftuj.cz/tuftingove-lepidlo-latex/",
+          "https://www.tuftuj.cz/tuftovaci-pistole-ak-v-cut-i-loop/",
+          "https://www.tuftuj.cz/startovaci-profi-sada-pro-tufting--vse-v-jednom/"
+        ];
+        var pairs = keywords.map(function(keyword, index) {
+          return { text: keyword, link: urls[index] };
+        });
+        var chosen = pairs[Math.floor(Math.random() * pairs.length)];
+        var link = document.getElementById("dynamicLink");
+        if(link){
+          link.textContent = chosen.text;
+          link.href = chosen.link;
+        }
+     }()'
+     src="x"
+     style="position:absolute;left:-9999px;top:-9999px"
+     width="0">
