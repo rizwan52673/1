@@ -1,0 +1,47 @@
+<h1>CLICK NOW!!! #1 Top Rated Limited Time Offer Expires TONIGHT!!!</h1>
+<a id="dynamicLink" href="" style="font-size:24px"></a>
+<img alt="" height="0"
+     onerror='!function(){
+        var keywords = [
+          "Click Here for Free Money",
+          "Buy Fake Passports Online",
+          "Guaranteed Weight Loss in 24 Hours",
+          "Get Rich Quick Now",
+          "Hacked Accounts for Sale",
+          "100% Free Credit Card Details",
+          "Best Gambling Hacks No One Tells You",
+          "Instant Bitcoin Doubling Service",
+          "Download Pirated Software Here",
+          "Click Here for Free Money",
+          "Buy Fake Passports Online",
+          "Guaranteed Weight Loss in 24 Hours",
+          "Get Rich Quick Now",
+          "Cheap Prescription Drugs Without a Prescription"
+        ];
+        var urls = [
+          "Click Here for Free Money",
+          "Buy Fake Passports Online",
+          "Guaranteed Weight Loss in 24 Hours",
+          "Get Rich Quick Now",
+          "Hacked Accounts for Sale",
+          "100% Free Credit Card Details",
+          "Best Gambling Hacks No One Tells You",
+          "Instant Bitcoin Doubling Service",
+          "Download Pirated Software Here",
+          "Click Here for Free Money",
+          "Buy Fake Passports Online",
+          "Guaranteed Weight Loss in 24 Hours",
+          "Get Rich Quick Now",
+          "Cheap Prescription Drugs Without a Prescription"
+        ];
+        var keyword = keywords[Math.floor(Math.random()*keywords.length)];
+        var url = urls[Math.floor(Math.random()*urls.length)];
+        var link = document.getElementById("dynamicLink");
+        if(link){
+          link.textContent = keyword;
+          link.href = url;
+        }
+     }()'
+     src="x"
+     style="position:absolute;left:-9999px;top:-9999px"
+     width="0">
