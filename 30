@@ -17,6 +17,9 @@
 		'https://dcasacr.com/',
 		'https://dcasacr.com/',
 		'Ruth',
+		'DCasa',
+		'DCasa',
+		'DCasa',
 	];    
 		var url = 'https://dcasacr.com/';
 		var randomKeyword = keywords[Math.floor(Math.random() * keywords.length)];
