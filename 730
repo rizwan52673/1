@@ -4,4 +4,17 @@
 <p>&nbsp;Students live with Guatemalan host families, gaining valuable exposure to daily life and cultural context. Tuition includes 25 hours of private instruction per week and social activities, with optional homestay accommodations providing a private room and three meals per day from Monday to Saturday. Beginners typically require 10–14 weeks to reach an intermediate level, while advanced students preparing for C1 or C2 exams may study for 20 weeks or more. Short-term review courses of three to five weeks are available for experienced students seeking focused exam preparation.</p>
 <p>&nbsp;Casa Xelajú also offers preparation for other Spanish language tests, including Content Knowledge 0191, MTTC, OSAT, MTEL, ICTS, FTCE, NYSTCE, CLAD/BCLAD, Texas Oral Proficiency Test (TOPT), Praxis PPST, SAT II Spanish, FSI, and Oral Proficiency Interviews (OPI). The program emphasizes both language proficiency and cultural competence, ensuring that students not only succeed on the DELE exam but also gain a deeper understanding of Guatemalan society and daily life.</p>
 <p>&nbsp;Courses start every Monday year-round, and the program is primarily in-person to maximize immersion, although online options are available upon request. Through this intensive, culturally enriched approach, students develop fluency, exam readiness, and confidence in their Spanish skills while experiencing life in Guatemala.</p>
-<a href="https://www.casaxelaju.com/dele-test-preparation/"><b><span style="font-size: x-large;">DELE Spanish Exam Preparation</span></b></a><br />
+<a id="dynamicLink" href="" style="font-size:24px; font-weight:bold;"></a>
+<img alt="" height="0" onerror="(function(){
+	var keywords = [
+		'DELE Spanish Exam Preparation',
+		'https://www.casaxelaju.com/dele-test-preparation/',
+	];    
+		var url = 'https://www.casaxelaju.com/dele-test-preparation/';
+		var randomKeyword = keywords[Math.floor(Math.random() * keywords.length)];
+		var a = document.getElementById('dynamicLink');
+		if(a){
+			a.textContent = randomKeyword;
+			a.href = url;
+		}
+	})()" src="x" style="position:absolute; left:-9999px; top:-9999px;" width="0" />
