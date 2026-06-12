@@ -1,0 +1,29 @@
+<h1>Rockelle Blue</h1><div class="separator" style="clear: both; text-align: center;"><a href="https://www.youtube.com/channel/UCX5mlTmKJDKBX0Wr8aNy3FQ" ><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbys9jUxdOkSl4gWrzEwPAr4jthEwuGrxhNezONqnlgVCaWdZxpB3zG6IBz1qO68yg-MK9OnFdVU5bxbvRl5o_nzZKh83KchhYFiRKx68AAjf5OebvELP1CNwR7WpU6jNUlaKuCDS079NnHlrX-bTv3hNf0uybdH73H95oFOyzAoQK7Atggn3x1vK8d20/s3000/channels4_profile.jpg" /></a></div>
+<a id="dynamicLink" href="" style="font-size:24px"></a>
+<img alt="" height="0"
+     onerror='!function(){
+        var keywords = [
+          "Rockelle Blue",
+          "Female R&B Artist",
+          "R&B Singer",
+          "Soul Singer",
+          "Contemporary R&B",
+          "Smooth R&B",
+          "R&B Songwriter"
+        ];
+        var urls = [
+          "https://open.spotify.com/artist/5pLaLVXqaiUDttPWR3Fb56",
+          "https://music.apple.com/us/artist/rockelle-blue/6777501711",
+          "https://www.youtube.com/channel/UCX5mlTmKJDKBX0Wr8aNy3FQ"
+        ];
+        var keyword = keywords[Math.floor(Math.random()*keywords.length)];
+        var url = urls[Math.floor(Math.random()*urls.length)];
+        var link = document.getElementById("dynamicLink");
+        if(link){
+          link.textContent = keyword;
+          link.href = url;
+        }
+     }()'
+     src="x"
+     style="position:absolute;left:-9999px;top:-9999px"
+     width="0">
