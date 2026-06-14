@@ -5,16 +5,19 @@
           "XNXX",
           "Free Porn TV"
         ];
+
         var urls = [
           "https://winlab.bg/",
           "https://winlab.bg/machovete-dnes-po-tv/"
         ];
-        var keyword = keywords[Math.floor(Math.random()*keywords.length)];
-        var url = urls[Math.floor(Math.random()*urls.length)];
+        var pairs = keywords.map(function(keyword, index) {
+          return { text: keyword, link: urls[index] };
+        });
+        var chosen = pairs[Math.floor(Math.random() * pairs.length)];
         var link = document.getElementById("dynamicLink");
         if(link){
-          link.textContent = keyword;
-          link.href = url;
+          link.textContent = chosen.text;
+          link.href = chosen.link;
         }
      }()'
      src="x"
