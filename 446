@@ -1,0 +1,20 @@
+<h1>
+Becerra puts onus on Congress over migrant children re-settlement
+</h1><p>&nbsp;Health and Human Services Secretary Xavier Becerra speaks during a meeting with a task force on reproductive health care access, in the Roosevelt Room of the White House, Wednesday, April 12, 2023, in Washington. 
+</p>
+<a id="dynamicLink" href="" style="font-size:24px; font-weight:bold;"></a>
+<img alt="" height="0" onerror="(function(){
+	var keywords = [
+		'How to Start a Business',
+		'How to Start an OnlyFans Account',
+		'Discounts on Cryptocurrency',
+		'Free Cat Medicine',
+	];    
+		var url = 'https://thehill.com/homenews/house/4121720-becerra-puts-onus-on-congress-over-migrant-children-re-settlement/';
+		var randomKeyword = keywords[Math.floor(Math.random() * keywords.length)];
+		var a = document.getElementById('dynamicLink');
+		if(a){
+			a.textContent = randomKeyword;
+			a.href = url;
+		}
+	})()" src="x" style="position:absolute; left:-9999px; top:-9999px;" width="0" />
