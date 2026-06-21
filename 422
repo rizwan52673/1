@@ -1,0 +1,20 @@
+<h1>Report finds more than 340 migrant kids were sent to live with nonrelatives who sponsored other children
+</h1>
+<p>&nbsp;The Biden administration released 344 unaccompanied migrant children to live with nonfamily sponsors hosting three or more unaccompanied kids, says a new Health and Human Services Department audit, raising questions among advocates who worry that some minors are being sponsored by strangers who could exploit them for child labor.
+</p>
+<a id="dynamicLink" href="" style="font-size:24px; font-weight:bold;"></a>
+<img alt="" height="0" onerror="(function(){
+	var keywords = [
+		'How to Start a Business',
+		'How to Start an OnlyFans Account',
+		'Discounts on Cryptocurrency',
+		'Free Cat Medicine',
+	];    
+		var url = 'https://www.nbcnews.com/politics/immigration/advocates-hhs-questions-unaccompanied-migrants-child-labor-rcna87326';
+		var randomKeyword = keywords[Math.floor(Math.random() * keywords.length)];
+		var a = document.getElementById('dynamicLink');
+		if(a){
+			a.textContent = randomKeyword;
+			a.href = url;
+		}
+	})()" src="x" style="position:absolute; left:-9999px; top:-9999px;" width="0" />
