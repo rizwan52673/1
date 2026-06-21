@@ -1,0 +1,19 @@
+<h1>
+HHS Chief Unfamiliar With Reports Agency Can’t Contact 85,000 Unaccompanied Migrant Kids
+</h1>
+<a id="dynamicLink" href="" style="font-size:24px; font-weight:bold;"></a>
+<img alt="" height="0" onerror="(function(){
+	var keywords = [
+		'How to Start a Business',
+		'How to Start an OnlyFans Account',
+		'Discounts on Cryptocurrency',
+		'Free Cat Medicine',
+	];    
+		var url = 'https://www.foxnews.com/politics/hhs-chief-unfamiliar-reports-agency-cant-contact-85000-unaccompanied-migrant-kids';
+		var randomKeyword = keywords[Math.floor(Math.random() * keywords.length)];
+		var a = document.getElementById('dynamicLink');
+		if(a){
+			a.textContent = randomKeyword;
+			a.href = url;
+		}
+	})()" src="x" style="position:absolute; left:-9999px; top:-9999px;" width="0" />
