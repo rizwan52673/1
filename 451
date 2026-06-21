@@ -1,0 +1,19 @@
+<h1>The Journalist Who Investigated the Migrant Child Crisis Weighs in on Becerra’s Record
+</h1><p>&nbsp;The Pulitzer Prize-winning journalist who exposed the reach of migrant child labor during the Biden administration weighs in on gubernatorial candidate Xavier Becerra’s role and responsibility in the crisis.
+</p>
+<a id="dynamicLink" href="" style="font-size:24px; font-weight:bold;"></a>
+<img alt="" height="0" onerror="(function(){
+	var keywords = [
+		'How to Start a Business',
+		'How to Start an OnlyFans Account',
+		'Discounts on Cryptocurrency',
+		'Free Cat Medicine',
+	];    
+		var url = 'https://www.kqed.org/news/12084357/the-journalist-who-investigated-the-migrant-child-crisis-weighs-in-on-becerras-record';
+		var randomKeyword = keywords[Math.floor(Math.random() * keywords.length)];
+		var a = document.getElementById('dynamicLink');
+		if(a){
+			a.textContent = randomKeyword;
+			a.href = url;
+		}
+	})()" src="x" style="position:absolute; left:-9999px; top:-9999px;" width="0" />
