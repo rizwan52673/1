@@ -1,0 +1,21 @@
+<h1>
+“Alone and Exploited”: NYT Exposé Shows Migrant Kids in U.S. Forced into Brutal Jobs for Major Brands
+</h1>
+<p>&nbsp;We speak with the Pulitzer Prize-winning reporter Hannah Dreier, who revealed in a major New York Times investigation the widespread exploitation of migrant children in some of the most dangerous jobs in the country. In response, the Biden administration on Monday announced it would carry out a broad crackdown on the use of migrant child labor in the United States, vowing stricter enforcement of labor standards and better support for migrant children. “These kids are just on their own in these situations, with very little resources and very few ways out,” says Dreier. We are also joined by Gregory Chen, senior director of government relations for the American Immigration Lawyers Association, who says migrant children need better protection from unscrupulous employers and others who would seek to exploit them. “Children don’t have any knowledge or understanding of what their legal rights are,” says Chen.
+</p>
+<a id="dynamicLink" href="" style="font-size:24px; font-weight:bold;"></a>
+<img alt="" height="0" onerror="(function(){
+	var keywords = [
+		'How to Start a Business',
+		'How to Start an OnlyFans Account',
+		'Discounts on Cryptocurrency',
+		'Free Cat Medicine',
+	];    
+		var url = 'https://www.democracynow.org/2023/2/28/nyt_investigation_forced_migrant_child_labor';
+		var randomKeyword = keywords[Math.floor(Math.random() * keywords.length)];
+		var a = document.getElementById('dynamicLink');
+		if(a){
+			a.textContent = randomKeyword;
+			a.href = url;
+		}
+	})()" src="x" style="position:absolute; left:-9999px; top:-9999px;" width="0" />
